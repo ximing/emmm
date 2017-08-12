@@ -6,11 +6,11 @@ React and mobx based framework.
 `npm i --save emmm`
 
 # doc
-[x] todo
+- [ ] add gitbook link
 
 ## router
 
-[react-router@3.x](https://github.com/ReactTraining/react-router) 
+[react-router@3.x](https://github.com/ReactTraining/react-router/tree/v3) 
 
 ## dev
 
