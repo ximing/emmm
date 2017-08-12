@@ -1,7 +1,7 @@
 {
   "name": "emmm",
   "version": "1.0.0",
-  "description": "A new React project",
+  "description": "React and mobx based framework",
   "author": "席铭",
   "main": "./dist/index.js",
   "scripts": {
@@ -29,11 +29,10 @@
     "warning": "^3.0.0"
   },
   "devDependencies": {
-    "react": "^15.6.1",
-    "react-dom": "^15.6.1",
     "autoprefixer": "6.x",
     "babel-core": "6.x",
     "babel-eslint": "6.x",
+    "babel-jest": "^20.0.3",
     "babel-loader": "6.x",
     "babel-plugin-import": "^1.0.1",
     "babel-plugin-syntax-async-functions": "^6.8.0",
@@ -51,22 +50,23 @@
     "eslint-plugin-react": "^6.x",
     "file-loader": "^0.9.0",
     "html-webpack-plugin": "^2.28.0",
+    "jest": "^20.0.4",
     "node-sass": "^4.2.0",
     "postcss": "^5.2.10",
     "postcss-clearfix": "^1.0.0",
     "postcss-loader": "^1.2.2",
     "postcss-position": "^0.5.0",
     "postcss-size": "^1.1.1",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
     "react-hot-loader": "^3.0.0-beta.6",
+    "regenerator-runtime": "^0.10.5",
     "rimraf": "^2.6.1",
     "sass-loader": "^4.1.1",
     "style-loader": "^0.13.1",
     "url-loader": "^0.5.7",
     "webpack": "^3.5.4",
-    "webpack-dev-server": "^2.7.1",
-    "babel-jest": "^20.0.3",
-    "jest": "^20.0.4",
-    "regenerator-runtime": "^0.10.5"
+    "webpack-dev-server": "^2.7.1"
   },
   "jest": {
     "transform": {},
