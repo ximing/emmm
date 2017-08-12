@@ -1,13 +1,17 @@
-### 开发
-```apple js
-npm run dev
-```
-### build demo
-```apple js
-npm run builddemo
-```
+# rab
+React and mobx based framework.
 
-### bulid lib
-```apple js
-npm run buildlib
-```
+# Installation
+
+`npm i --save emmm`
+
+# doc
+[x] todo
+
+## router
+
+[react-router@3.x](https://github.com/ReactTraining/react-router) 
+
+## dev
+
+`npm run dev`
